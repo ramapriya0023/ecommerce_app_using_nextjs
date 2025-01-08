@@ -1,4 +1,4 @@
-import "@/styles/ResponsiveImages.css";
+import "@/styles/ResponsiveImages.module.css";
 import AcUnitIcon from "@mui/icons-material/AcUnit";
 import ArrowCircleRightIcon from "@mui/icons-material/ArrowCircleRight";
 import BeachAccessIcon from "@mui/icons-material/BeachAccess";
